@@ -1,4 +1,4 @@
-# Fake-News-Detection-with-Deep-Learning-Techniques
+# Fake-News-Detection-with-Deep-Learning-Techniques-in-NLP
 Fake and Real News Text Classification using Deep Learning Techniques in NLP
 
 Fake news refers to the deliberate presentation of false or misleading claims as news, where the claims are misleading by design.
